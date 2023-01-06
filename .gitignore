@@ -1,0 +1,8 @@
+terraform-key-pair.pem
+.devcontainer/
+.terraform
+.terraform.lock.hcl
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+.tfplan
